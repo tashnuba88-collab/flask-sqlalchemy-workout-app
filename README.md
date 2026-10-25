@@ -21,7 +21,7 @@ python seed.py
 From the `server/` folder:
 
 ```
-flask run
+flask run --port 5555
 ```
 
 This serves on http://127.0.0.1:5555. `python app.py` also works and serves on port 5555.
