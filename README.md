@@ -24,7 +24,7 @@ From the `server/` folder:
 flask run
 ```
 
-This serves on http://127.0.0.1:5000. `python app.py` also works and serves on port 5555.
+This serves on http://127.0.0.1:5555. `python app.py` also works and serves on port 5555.
 
 ## Validations
 
